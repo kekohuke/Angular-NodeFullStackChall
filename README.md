@@ -23,5 +23,5 @@ To Run:
 
 
 
-
+<img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/sign%20up%202%20page.PNG" >
 
