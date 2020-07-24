@@ -1,0 +1,17 @@
+<div>
+    <p style="align-self: right;">{{timer}}</p>
+    <h3>Question {{index}}: <p>{{questions[index].question}}</p></h3>
+      <mat-selection-list #selecting [multiple]="false">
+        <mat-list-option (click)="getValue($event)"  *ngFor="let option of questions[this.index].options" [value]="option.value">
+            {{option.value}}
+        </mat-list-option>
+      </mat-selection-list>
+      <p>
+        Options selected: {{selecting.selectedOptions.selected[0]?.value}}
+      </p>
+      <button mat-raised-button *ngIf="!submitted" color="accent" (click)='handleSubmit(false)'>Submit</button>
+      <button mat-raised-button *ngIf="submitted"  (click)='next()'>Next Question</button>
+      <p>
+          {{result}}
+      </p>
+</div>

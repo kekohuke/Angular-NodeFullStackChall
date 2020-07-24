@@ -1,0 +1,17 @@
+<div>
+
+    <mat-card-header>
+      <mat-card-title>Sign Up</mat-card-title>
+    </mat-card-header>
+    <mat-form-field appearance="fill">
+      <mat-label>Email</mat-label>
+      <input matInput [(ngModel)]="email" type="email" required />
+    </mat-form-field>
+    <mat-card-actions>
+      <button (click)="checkEmail()" mat-button class="button">
+        NEXT
+      </button>
+    </mat-card-actions>
+    <br />
+
+</div>
