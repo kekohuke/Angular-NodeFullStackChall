@@ -29,4 +29,4 @@ To Run:
 <img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/time%20out.PNG" >
 <img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/wrong%20answer.PNG" >
 <img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/correct%20answer.PNG" >
-<img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/final%20score.PNG.PNG" >
+<img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/final%20score.PNG" >
