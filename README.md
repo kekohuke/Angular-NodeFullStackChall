@@ -24,4 +24,9 @@ To Run:
 
 
 <img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/sign%20up%202%20page.PNG" >
-
+<img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/enter-contest.PNG" >
+<img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/q1.PNG" >
+<img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/time%20out.PNG" >
+<img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/wrong%20answer.PNG" >
+<img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/correct%20answer.PNG" >
+<img src="https://github.com/kekohuke/Angular-NodeFullStackChall/blob/master/screenshorts/final%20score.PNG.PNG" >
