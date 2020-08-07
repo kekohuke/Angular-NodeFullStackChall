@@ -19,7 +19,7 @@ To Run:
 
 7. open another terminal
 
-8. cd client && npm install
+8. cd client && npm start
 
 
 
