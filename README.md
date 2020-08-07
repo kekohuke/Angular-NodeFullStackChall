@@ -15,11 +15,13 @@ To Run:
 
 5. npm install
 
-6. npm start
+6. npm run seed
 
-7. open another terminal
+7. npm start
 
-8. cd client && npm start
+8. open another terminal
+
+9. cd client && npm start
 
 
 
